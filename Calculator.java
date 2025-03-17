@@ -26,9 +26,10 @@ public class Calculator {
         return a * b;
     }
     
-    // Group 5: Modulus (Members: [Your Names])
-public static int modulus(int a, int b) {
-    return a % b;
+    //Group 8: Maxnumber (Members: Tamayo, Jimneo, Masaypon, Dela Puerta, Legaspi, Salcedo)
+    public static int max(int a, int b) {
+    return (a > b) ? a : b;
+
 }
 
 

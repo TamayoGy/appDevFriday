@@ -27,13 +27,13 @@ public class GroupWork {
 
         System.out.println("(GROUP 1) Sum: " + Calculator.add(num1, num2));  // Group 1's method
         System.out.println("(GROUP 10) Are they equal? " + Calculator.isEqual(num1, num2));  // Group 10's method
-        System.out.println("(GROUP 5) Remainder: " + Calculator.modulus(num1, num2));  // Group 5's method
 
         scanner.close(); // Close scanner to prevent resource leak
 
         System.out.println("Number Squared: " + Calculator.square(num1));
         System.out.println("(Group 6: Diaz, Almario, Echegorin, Mangaoang, Conde Sammylee, Palermo, Repollo, Melida, Ondoy, Sapayla)");
-    
+        System.out.println("(GROUP 8 - Tamayo, Jimeno, Masayon, Dela Puerta, Legaspi, Salcedo) max: " + Calculator.max(num1, num2));  // Group 8's method
+
 
     }
 }
