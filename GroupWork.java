@@ -32,7 +32,7 @@ public class GroupWork {
 
         System.out.println("Number Squared: " + Calculator.square(num1));
         System.out.println("(Group 6: Diaz, Almario, Echegorin, Mangaoang, Conde Sammylee, Palermo, Repollo, Melida, Ondoy, Sapayla)");
-        System.out.println("(GROUP 8 - Tamayo, Jimeno, Masayon, Dela Puerta, Legaspi, Salcedo) max: " + Calculator.max(num1, num2));  // Group 8's method
+        System.out.println("(GROUP 8 - Tamayo, Jimeno, Masayon, Legaspi, Salcedo) max: " + Calculator.max(num1, num2));  // Group 8's method
 
 
     }
