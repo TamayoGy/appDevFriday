@@ -26,7 +26,7 @@ public class Calculator {
         return a * b;
     }
     
-    //Group 8: Maxnumber (Members: Tamayo, Jimneo, Masaypon, Dela Puerta, Legaspi, Salcedo)
+    //Group 8: Maxnumber (Members: Tamayo, Jimneo, Masayon, Dela Puerta, Legaspi, Salcedo)
     public static int max(int a, int b) {
     return (a > b) ? a : b;
 
